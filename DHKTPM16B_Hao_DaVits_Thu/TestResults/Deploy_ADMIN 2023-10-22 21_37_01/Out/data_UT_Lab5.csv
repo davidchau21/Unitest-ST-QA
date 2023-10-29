@@ -1,0 +1,12 @@
+s,n,p,expectedResult
+ThuHuynh,2,3,Thuynh
+ThuHuynh,2,8,ThuHuynh
+ThuHuynh,6,3,Th
+ThuHuynh,-2,3,ThuHuynh
+ThuHuynh,2,-2,ThuHuynh
+ThuHuynh,2,7,ThuHuy
+,2,3,
+ThuHuynh,0,0,ThuHuynh
+ThuHuynh,2,6,ThuHuh
+ThuHuynh,-1,3,ThuHuynh
+ThuHuynh,2,-1,ThuHuynh

@@ -1,0 +1,9 @@
+s1,s2,s3,expectedResult
+Huynh Minh Thu,Minh,Van,Huynh Van Thu
+Huynh Minh Thu,Anh,Van,Huynh Minh Thu
+,,,
+Huynh Minh Thu,Huynh,Cao,Cao Minh Thu
+Huynh Minh Thu,Thu,Long,Huynh Minh Long
+,Minh,Van,
+Huynh Minh Thu,,Van,Huynh Minh Thu
+Huynh Minh Thu,Minh,,Huynh  Thu

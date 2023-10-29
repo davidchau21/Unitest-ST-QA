@@ -1,0 +1,7 @@
+a,b,c,result,x1,x2
+2,3,1,"Có 2 nghiệm phân biệt",-0.5,-1
+-2,-3,-1,"Có 2 nghiệm phân biệt", -0.5,-1
+0,0,0,"Vô số nghiệm",NaN,NaN
+0,3,-9,"Có 1 nghiệm",3
+1,0,4,"Vô nghiệm",NaN,NaN
+2,0,0,"Có nghiệm kép",0,0
