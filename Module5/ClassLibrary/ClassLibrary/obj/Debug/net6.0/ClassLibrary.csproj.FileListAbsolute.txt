@@ -1,0 +1,11 @@
+E:\HKI_2023-2024\DamBaoChatLuong-KiemThuPhanMem\Lab-ThucHanh\Lab\Module05\ClassLibrary\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+E:\HKI_2023-2024\DamBaoChatLuong-KiemThuPhanMem\Lab-ThucHanh\Lab\Module05\ClassLibrary\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+E:\HKI_2023-2024\DamBaoChatLuong-KiemThuPhanMem\Lab-ThucHanh\Lab\Module05\ClassLibrary\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+E:\HKI_2023-2024\DamBaoChatLuong-KiemThuPhanMem\Lab-ThucHanh\Lab\Module05\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\HKI_2023-2024\DamBaoChatLuong-KiemThuPhanMem\Lab-ThucHanh\Lab\Module05\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+E:\HKI_2023-2024\DamBaoChatLuong-KiemThuPhanMem\Lab-ThucHanh\Lab\Module05\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+E:\HKI_2023-2024\DamBaoChatLuong-KiemThuPhanMem\Lab-ThucHanh\Lab\Module05\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\HKI_2023-2024\DamBaoChatLuong-KiemThuPhanMem\Lab-ThucHanh\Lab\Module05\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+E:\HKI_2023-2024\DamBaoChatLuong-KiemThuPhanMem\Lab-ThucHanh\Lab\Module05\ClassLibrary\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+E:\HKI_2023-2024\DamBaoChatLuong-KiemThuPhanMem\Lab-ThucHanh\Lab\Module05\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+E:\HKI_2023-2024\DamBaoChatLuong-KiemThuPhanMem\Lab-ThucHanh\Lab\Module05\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
